@@ -23,11 +23,11 @@ const EmpoweringHealth = () => {
 			
             <div className='relative'>
            <div >
-           <img className="w-full rounded-lg dark:bg-gray-500 " src={img1} />
+           <img className="w-full rounded-badge dark:bg-gray-500 " src={img1} />
            </div>
-            <div className='bg-[#343268] text-white rounded-xl py-10 px-8 absolute bottom-10 left-10 right-40 opacity-85'>
+            <div className='bg-[#343268] text-white rounded-badge py-10 px-8 absolute bottom-10 left-10 right-40 opacity-85'>
            <div >
-           <h1 className='font-medium text-2xl mb- '>Advanced Technology</h1>
+           <h1 className='font-medium text-2xl '>Advanced Technology</h1>
             <div className='flex items-end '>
                 <div>
             <p>Our surgeons are trained in the latest robotic surgical techniques, which allow for greater precision.</p>
@@ -46,11 +46,11 @@ const EmpoweringHealth = () => {
         <div>
         <div className='relative'>
            <div >
-           <img className="w-full rounded-lg dark:bg-gray-500 " src={img2} />
+           <img className="w-full rounded-badge dark:bg-gray-500 " src={img2} />
            </div>
-            <div className='bg-[#343268] text-white rounded-xl py-10 px-8 absolute bottom-10 left-10 right-40 opacity-85'>
+            <div className='bg-[#343268] text-white rounded-badge py-10 px-8 absolute bottom-10 left-10 right-40 opacity-85'>
            <div >
-           <h1 className='font-medium text-2xl mb- '>Online Doctor Meet</h1>
+           <h1 className='font-medium text-2xl '>Online Doctor Meet</h1>
             <div className='flex items-end '>
                 <div>
             <p>Our surgeons are trained in the latest robotic surgical techniques, which allow for greater precision.</p>
@@ -71,11 +71,11 @@ const EmpoweringHealth = () => {
            <div>
            <div className='relative'>
            <div >
-           <img className="w-full rounded-lg dark:bg-gray-500 " src={img3} />
+           <img className="w-full rounded-badge dark:bg-gray-500 " src={img3} />
            </div>
-            <div className='bg-[#343268] text-white rounded-xl py-10 px-8 absolute bottom-10 left-10 right-40 opacity-85'>
+            <div className='bg-[#343268] text-white rounded-badge py-10 px-8 absolute bottom-10 left-10 right-40 opacity-85'>
            <div >
-           <h1 className='font-medium text-2xl mb- '>Consultancy your health</h1>
+           <h1 className='font-medium text-2xl '>Consultancy your health</h1>
             <div className='flex items-end '>
                 <div>
             <p>Our surgeons are trained in the latest robotic surgical techniques, which allow for greater precision</p>

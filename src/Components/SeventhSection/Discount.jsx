@@ -7,7 +7,7 @@ const Discount = () => {
   return (
     <div className='mx-20 my-28'>
       <div
-        className="relative rounded-lg overflow-hidden"
+        className="relative rounded-badge overflow-hidden"
         style={{
           backgroundImage: "url(https://i.ibb.co/vk5T9rQ/Rectangle-32.png)",
           backgroundSize: 'cover',
