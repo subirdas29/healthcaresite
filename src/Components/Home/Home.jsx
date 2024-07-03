@@ -5,6 +5,7 @@ import GetSolution from '../ThirdSection/GetSolution'
 import EmpoweringHealth from '../FourthSection/EmpoweringHealth'
 import Faq from '../SixthSection/Faq'
 import Discount from '../SeventhSection/Discount'
+import Footer from '../Footer/Footer'
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
       <EmpoweringHealth></EmpoweringHealth>
       <Faq></Faq>
       <Discount></Discount>
+      <Footer></Footer>
     </div>
   )
 }

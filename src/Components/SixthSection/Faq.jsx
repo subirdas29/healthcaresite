@@ -3,7 +3,7 @@ import React from 'react'
 const Faq = () => {
   return (
     <div className='mx-20'>
-        <button className='outline outline-1 px-5 py-2 rounded rounded-full mb-6'>Faq</button>
+        <button className='outline outline-1 px-5 py-2 rounded-full mb-6'>Faq</button>
         <h1 className='text-4xl font-semibold mb-6'>Frequntly Asked Question</h1>
       <div className="collapse collapse-arrow bg-[#FFFFF5] px-6">
   <input type="radio" name="my-accordion-2" defaultChecked />
