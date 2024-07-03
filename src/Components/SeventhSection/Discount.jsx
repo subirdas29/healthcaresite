@@ -5,7 +5,7 @@ import arrow from '../../assets/fourth-section-img/Arrow 2.png';
 
 const Discount = () => {
   return (
-    <div className='mx-20 my-20'>
+    <div className='mx-20 my-28'>
       <div
         className="relative rounded-lg overflow-hidden"
         style={{

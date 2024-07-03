@@ -13,7 +13,7 @@ const EmpoweringHealth = () => {
 	{/* <div className="container flex flex-col "> */}
 		<div className="grid grid-cols-1 gap-x-6 gap-y-12 lg:grid-cols-2 sm:grid-cols-2 ">
 			<div className='w-10/12'>
-            <button className='outline outline-1 px-5 py-2 rounded rounded-full'>Service</button>
+            <button className='outline outline-1 px-5 py-2 rounded-full'>Service</button>
             <h1 className='my-6 text-4xl font-bold'>Empowering Health,  <p>
             Enriching Lives</p></h1>
             <p>We are committed to providing high-quality, compassionate care to every patient we serve. Whatever your healthcare needs may be, you can trust us to be your partner in health and wellness.</p>
