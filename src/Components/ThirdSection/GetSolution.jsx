@@ -12,7 +12,7 @@ const GetSolution = () => {
      <p>We are proud to be a trusted healthcare provider in our community, and we look forward to serving you and your family with excellence, integrity, and compassion. Your health is our priority, and we are here for you every step of the way. We believe in treating each patient with dignity, respect, and empathy, ensuring that they receive the attention and care they deserve.
      </p>
      <button className='my-8 px-5 py-2 rounded-lg bg-[#FFC637] flex items-center
-'><span className='mr-2'>Learn more</span> <img src={arrow} className='w-3 h-3' alt="" /></button>
+'><span className='mr-2 font-semibold'>Learn more</span> <img src={arrow} className='w-3 h-3' alt="" /></button>
      </div>
      <div className=' relative'>
         <img src={img1} alt="" />
