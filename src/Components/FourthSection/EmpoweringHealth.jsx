@@ -2,7 +2,7 @@ import React from 'react'
 import img1 from '../../assets/fourth-section-img/Rectangle 27-2.png';
 import img2 from '../../assets/fourth-section-img/Rectangle 27-1.png';
 import img3 from '../../assets/fourth-section-img/Rectangle 27.png';
-import arrow from '../../assets/logo/Arrow-1.png';
+import arrow from '../../assets/fourth-section-img/Arrow 2.png';
 
 const EmpoweringHealth = () => {
   return (
@@ -24,10 +24,19 @@ const EmpoweringHealth = () => {
            <div >
            <img className="w-full rounded-lg dark:bg-gray-500 " src={img1} />
            </div>
-            <div className='bg-[#343268] text-white rounded-xl py-10 px-8 absolute top-60 -left-20 right-60 '>
-            <h1 className='font-medium text-2xl mb-3'>Advanced Technology</h1>
+            <div className='bg-[#343268] text-white rounded-xl py-10 px-8 absolute bottom-10 left-10 right-40 opacity-85'>
+           <div >
+           <h1 className='font-medium text-2xl mb- '>Advanced Technology</h1>
+            <div className='flex items-end '>
+                <div>
             <p>Our surgeons are trained in the latest robotic surgical techniques, which allow for greater precision.</p>
-            <img src={arrow} alt="" />
+            </div>
+            
+           
+            <img className='bg-[#FFC637] ml-2 rounded-full p-4' src={arrow} alt="" />
+           
+           </div>
+           </div>
             
         </div>
             </div>
